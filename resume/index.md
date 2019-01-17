@@ -16,17 +16,20 @@ comments: false
 * University of Maryland, Baltimore County (UMBC)
 	* Baltimore, MD
 	* Bachelors of Science in Computer Science, Graduating in Spring of 2020
+	
 <b>Skills</b>
 * Software
 	* Unity, Unreal Engine, Adobe Photoshop, Adobe Flash, Microsoft Office
 * Programming Languages
 	* C#, C++, C, Java, Ruby
+	
 <b>Work Experience</b>
 * Game Design and Programming Instructor, Hagerstown Community College, Hagerstown, MD
 	* Summers of 2017 and 2018
 	* College for Kids program
 	* Taught kids, aged 10-16.
 	* Taught the basics of C# programming, and game design in Unity.
+	
 <b>Game Projects</b>
 * Little Golem, <i>UMBC Game Developers Club</i>
 	* August 2017 - March 2018
@@ -42,6 +45,7 @@ comments: false
 	* A multiplayer arena battle game. Made in Unity.
 	* Roles: Programmer, 2D Artist, Musician
 	* Contributions: game mechanics, HUD, 2D Art, Music
+	
 <b>Reference</b>
 * F. Martin Nikirk
 	* m.nikirk@aol.com
