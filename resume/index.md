@@ -28,16 +28,16 @@ comments: false
 	* Taught kids, aged 10-16.
 	* Taught the basics of C# programming, and game design in Unity.
 ### Game Projects
-*Little Golem, <i>UMBC Game Developers Club</i>
+* Little Golem, <i>UMBC Game Developers Club</i>
 	* August 2017 - March 2018
 	* A puzzle adventure game with gravity tilting mechanics. Made in Unity.
 	* Roles: Project Lead, Programmer, Head Level Designer
 	* Contributions: project management, game mechanics, physics, level design, 2D art
-*Mind Upload: Cardboard Edition, <i>Global Game Jam</i>
+* Mind Upload: Cardboard Edition, <i>Global Game Jam</i>
 	* January 2018
 	* A puzzle platformer with body swapping mechanics. Made in Unity.
 	* Independent Project
-*Skeletons in Hats, <i>Game Developers Club</i>
+* Skeletons in Hats, <i>Game Developers Club</i>
 	* August 2018 - present
 	* A multiplayer arena battle game. Made in Unity.
 	* Roles: Programmer, 2D Artist, Musician
