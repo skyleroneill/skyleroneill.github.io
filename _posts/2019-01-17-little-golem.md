@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Little Golem"
-date:   2019-01-017
+date:   2019-01-17
 excerpt: "A puzzle adventure game about shifting gravity and rolling around."
 project: true
 tag:
