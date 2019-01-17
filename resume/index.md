@@ -9,25 +9,25 @@ comments: false
 <center><font size="20"><b>Skyler O'Neill</b></font></center>
 <center>one2@umbc.edu | skyleroneill.github.com</center>
 
-### Education
+<b>Education</b>
 * Frederick Community College
 	* Frederick, MD
 	* Associates of Science in Computer Science, 2016
 * University of Maryland, Baltimore County (UMBC)
 	* Baltimore, MD
 	* Bachelors of Science in Computer Science, Graduating in Spring of 2020
-### Skills
+<b>Skills</b>
 * Software
 	* Unity, Unreal Engine, Adobe Photoshop, Adobe Flash, Microsoft Office
 * Programming Languages
 	* C#, C++, C, Java, Ruby
-### Work Experience
+<b>Work Experience</b>
 * Game Design and Programming Instructor, Hagerstown Community College, Hagerstown, MD
 	* Summers of 2017 and 2018
 	* College for Kids program
 	* Taught kids, aged 10-16.
 	* Taught the basics of C# programming, and game design in Unity.
-### Game Projects
+<b>Game Projects</b>
 * Little Golem, <i>UMBC Game Developers Club</i>
 	* August 2017 - March 2018
 	* A puzzle adventure game with gravity tilting mechanics. Made in Unity.
@@ -42,6 +42,6 @@ comments: false
 	* A multiplayer arena battle game. Made in Unity.
 	* Roles: Programmer, 2D Artist, Musician
 	* Contributions: game mechanics, HUD, 2D Art, Music
-### Reference
+<b>Reference</b>
 * F. Martin Nikirk
 	* m.nikirk@aol.com
