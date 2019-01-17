@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Abut Me
-tags: [about, Skyler, ONeill]
-date: 2016-03-21
-comments: false
+title: About Me
 ---
 
 ## Who is Skyler O'Neill?

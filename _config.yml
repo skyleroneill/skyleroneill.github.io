@@ -1,8 +1,8 @@
 # Site
-title:              Moon
+title:              Skyler O'Neill
 bio:                'Skyler O'Neill'
 description:        "Game Design and Programming"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'

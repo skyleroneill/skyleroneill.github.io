@@ -1,4 +1,18 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Home
+  url: /
+  
+  
+ - title: About
+   url: /about/
+   
+   
+ - title: Resume
+   url: /resume/
+
+  
+ - tite: Projects
+   url: /projects/
+
+
