@@ -30,18 +30,40 @@ Little Golem is a puzzle adventure game which revolves around the mechanics of s
 
 In addition to leading the project, I also contributed much to the programming and design of the game.
 
-### Player Mode Shifting
+#### Player Mode Shifting
 
 I created a method by which the player would be able to shift between walking, rolling, or tilting gravity. Each of these modes has fundamentally different movement, so we needed a way to alternate between them seemlessly.
 
-### Gravity Tilting Mechanics
+#### Gravity Tilting Mechanics
 
 I, along side the programming lead, coded a mechanic where the player is able to tilt gravity in a direction. Doing so causes everything to move in that direction as though gravity was shifted, while the player remains stuck in place. I primarily coded the tilting lanterns.
 
-### Rolling and Dashing
+#### Rolling and Dashing
 
 The second of the player's abilities in Little Golem is to curl into a ball and roll. Doing so allows the player to reach places inaccessible while walking. In addition to rolling, the player can charge up and release a spin dash for a quick burst of speed.
 
-### Level Design
+#### Level Design
 
 I designed all of the levels within Little Golem. I put an emphasis on teaching the player each mechanic in isolated instances and gradually building up to more complicated uses of each mechanic.
+
+## Try Little Golem for Yourself
+
+If you would like to try Little Golem then follow the link below. You will need to enter the password also listed below. The game works with keyboard and mouse, but is best played with an Xbox controller.
+
+<b><a href="https://zachchale.itch.io/little-golem-demo">Download from Itch.io</a></b>
+
+<b>Password: littlerockdude</b>
+
+Mouse and keyboard controls:
+
+<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move and change tilt direction.
+
+<kbd>E</kbd> to interact.
+
+Left Mouse click to roll(After unlocking).
+
+Right Mouse click to tilt(After unlocking).
+
+Hold Left <kbd>Shift</kbd> to dash(After unlocking).
+
+<kbd>Esc</kbd> to enter pause menu.
