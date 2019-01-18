@@ -13,4 +13,4 @@ tag:
 comments: false
 ---
 
-<iframe width="560" height="315" src="//https://www.youtube.com/embed/Sr4A106mkUw" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Sr4A106mkUw" frameborder="0"> </iframe>
