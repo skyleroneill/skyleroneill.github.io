@@ -10,4 +10,4 @@ I am a student at the University of Maryland, Baltimore County (UMBC) within the
 
 I am interested in gaining opportunities to begin working in the professional game development scene and gaining industry experience.
 
-Outside of my school and career aspiration, I enjoy playing piano, practising my German, and playing with my cat, Possum.
+Outside of my school and career aspirations, I enjoy playing piano, practising my German, and playing with my cat, Possum.
