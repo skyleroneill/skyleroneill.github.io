@@ -32,7 +32,7 @@ comments: false
 	
 <b>Game Projects</b>
 * Little Golem, <i>UMBC Game Developers Club</i>
-	* August 2017 - March 2018
+	* August 2017 - June 2018
 	* A puzzle adventure game with gravity tilting mechanics. Made in Unity.
 	* Roles: Project Lead, Programmer, Head Level Designer
 	* Contributions: project management, game mechanics, physics, level design, 2D art
