@@ -7,7 +7,7 @@ comments: false
 ---
     
 <center><font size="20"><b>Skyler O'Neill</b></font></center>
-<center>one2@umbc.edu | skyleroneill.github.com</center>
+<center>one2@umbc.edu | skyleroneill.github.io</center>
 
 <b>Education</b>
 * Frederick Community College
