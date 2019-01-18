@@ -2,6 +2,7 @@
 layout: post
 title:  "Little Golem"
 date:   2019-01-17
+feature: /assets/img/golem-feature.png
 excerpt: "A puzzle adventure game about shifting gravity and rolling around."
 project: true
 tag:
@@ -36,6 +37,11 @@ I created a method by which the player would be able to shift between walking, r
 
 #### Gravity Tilting Mechanics
 
+<figure>
+	<img src="/assets/img/golem-tilting-lanterns">
+	<figcaption>The golem's gravity tilting power causing lanterns to tilt.</figcaption>
+</figure>
+
 I, along side the programming lead, coded a mechanic where the player is able to tilt gravity in a direction. Doing so causes everything to move in that direction as though gravity was shifted, while the player remains stuck in place. I primarily coded the tilting lanterns.
 
 #### Rolling and Dashing
@@ -43,6 +49,11 @@ I, along side the programming lead, coded a mechanic where the player is able to
 The second of the player's abilities in Little Golem is to curl into a ball and roll. Doing so allows the player to reach places inaccessible while walking. In addition to rolling, the player can charge up and release a spin dash for a quick burst of speed.
 
 #### Level Design
+
+<figure>
+	<img src="/assets/img/placeholder-big">
+	<figcaption>The main hub of the tutorial area.</figcaption>
+</figure>
 
 I designed all of the levels within Little Golem. I put an emphasis on teaching the player each mechanic in isolated instances and gradually building up to more complicated uses of each mechanic.
 
