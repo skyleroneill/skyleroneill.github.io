@@ -48,7 +48,7 @@ I designed all of the levels within Little Golem. I put an emphasis on teaching 
 
 ## Try Little Golem for Yourself
 
-If you would like to try Little Golem then follow the link below. You will need to enter the password also listed below. The game works with keyboard and mouse, but is best played with an Xbox controller.
+If you would like to try Little Golem then follow the link below. You will need to enter the password also listed below. After downloading, extract and run the executable. The game works with keyboard and mouse, but is best played with an Xbox controller.
 
 <b><a href="https://zachchale.itch.io/little-golem-demo">Download from Itch.io</a></b>
 
