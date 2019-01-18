@@ -19,7 +19,7 @@ comments: false
 	
 <b>Skills</b>
 * Software
-	* Unity, Unreal Engine, Adobe Photoshop, Adobe Flash, Microsoft Office
+	* Unity Engine, Unreal Engine, Microsoft Visual Studio, Adobe Photoshop, Adobe Flash, Microsoft Office
 * Programming Languages
 	* C#, C++, C, Java, Ruby
 	
