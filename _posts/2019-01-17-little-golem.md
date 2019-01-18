@@ -51,7 +51,7 @@ The second of the player's abilities in Little Golem is to curl into a ball and 
 #### Level Design
 
 <figure>
-	<a href="/assets/img/placeholder-big.png"><img src="/assets/img/placeholder-big.png"></a>
+	<a href="/assets/img/golem-main-hub.png"><img src="/assets/img/golem-main-hub.png"></a>
 	<figcaption>The main hub of the tutorial area.</figcaption>
 </figure>
 
