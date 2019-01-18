@@ -38,7 +38,7 @@ I created a method by which the player would be able to shift between walking, r
 #### Gravity Tilting Mechanics
 
 <figure>
-	<img src="/assets/img/golem-tilting-lanterns">
+	<a href="/assets/img/golem-tilting-lanterns.png"><img src="/assets/img/golem-tilting-lanterns.png"></a>
 	<figcaption>The golem's gravity tilting power causing lanterns to tilt.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ The second of the player's abilities in Little Golem is to curl into a ball and 
 #### Level Design
 
 <figure>
-	<img src="/assets/img/placeholder-big">
+	<a href="/assets/img/placeholder-big.png"><img src="/assets/img/placeholder-big.png"></a>
 	<figcaption>The main hub of the tutorial area.</figcaption>
 </figure>
 
