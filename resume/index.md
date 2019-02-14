@@ -23,7 +23,7 @@ comments: false
 	* Programmed game mechanics, systems, and UI
 	* Designed and built levels
 * Mind Upload: Cardboard Edition, <i>Global Game Jam</i>
-	* A puzzle platformer with a body swapping mechanics, made in Unity for the Global Game Jam, 2018
+	* A puzzle platformer with a body swapping mechanics, made in Unity for the Global Game Jam, January 2018
 	* Developed the game independently
 * Skeletons in Hats, <i>Game Developers Club</i>
 	* A multiplayer battle game, made in Unity as a Game Developer’s Club project, September 2018 – present
