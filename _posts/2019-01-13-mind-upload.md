@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mind Upload: Cardboard Edition"
-date:   2019-02-13
+date:   2019-01-13
 feature: /assets/img/mind-upload-feature.png
 excerpt: "A puzzle platformer with body swapping mechanics."
 project: true
