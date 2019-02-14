@@ -10,42 +10,43 @@ comments: false
 <center>one2@umbc.edu | skyleroneill.github.io</center>
 
 <b>Education</b>
-* Frederick Community College
-	* Frederick, MD
-	* Associates of Science in Computer Science, 2016
 * University of Maryland, Baltimore County (UMBC)
-	* Baltimore, MD
-	* Bachelors of Science in Computer Science, Graduating in Spring of 2020
+	* Bachelor of Science in Computer Science, Graduating in Spring of 2020
+	* GPA: 3.83
+* Frederick Community College
+	* Associate of Science in Computer Science, 2016
+
+<b>Game Projects</b>
+* Little Golem, <i>UMBC Game Developers Club</i>
+	* A puzzle adventure game with gravity tilting mechanics, made in Unity as a Game Developer’s Club project, September 2017 – June 2018
+	* Led game development
+	* Programmed game mechanics, systems, and UI
+	* Designed and built levels
+* Mind Upload: Cardboard Edition, <i>Global Game Jam</i>
+	* A puzzle platformer with a body swapping mechanics, made in Unity for the Global Game Jam, 2018
+	* Developed the game independently
+* Skeletons in Hats, <i>Game Developers Club</i>
+	* A multiplayer battle game, made in Unity as a Game Developer’s Club project, September 2018 – present
+	* Programmed game mechanics, various systems, and UI
+	* Designed gameplay mechanics and elements
+	* Composed music
 	
 <b>Skills</b>
 * Software
-	* Unity Engine, Unreal Engine, Microsoft Visual Studio, Adobe Photoshop, Adobe Flash, Microsoft Office
+	* Unity Engine, Unreal Engine, Git, Microsoft Visual Studio, Adobe Photoshop, Adobe Flash, Microsoft Office
 * Programming Languages
 	* C#, C++, C, Java, Ruby
 	
 <b>Work Experience</b>
-* Game Design and Programming Instructor, Hagerstown Community College, Hagerstown, MD
-	* Summers of 2017 and 2018
-	* College for Kids program
-	* Taught kids, aged 10-16.
-	* Taught the basics of C# programming, and game design in Unity.
+Game Design and Programming Instructor, Hagerstown Community College’s College 
+For Kids program, Hagerstown, MD, June to August 2017 & 2018
+	* Created lessons on coding and building games using C# and the Unity game engine
+	* Taught children ages 10-16
+	* Used Microsoft Office and Google application in the creation and teaching of lessons
+	* Assisted students in troubleshooting a variety of programming issues
 	
-<b>Game Projects</b>
-* Little Golem, <i>UMBC Game Developers Club</i>
-	* August 2017 - June 2018
-	* A puzzle adventure game with gravity tilting mechanics. Made in Unity.
-	* Roles: Project Lead, Programmer, Head Level Designer
-	* Contributions: project management, game mechanics, physics, level design, 2D art
-* Mind Upload: Cardboard Edition, <i>Global Game Jam</i>
-	* January 2018
-	* A puzzle platformer with body swapping mechanics. Made in Unity.
-	* Independent Project
-* Skeletons in Hats, <i>Game Developers Club</i>
-	* August 2018 - present
-	* A multiplayer arena battle game. Made in Unity.
-	* Roles: Programmer, 2D Artist, Musician
-	* Contributions: game mechanics, HUD, 2D Art, Music
+<b>Honors</b>
+	* UMBC Academic Achievement Award Scholarship
+	* President's List
+	* Dean's List
 	
-<b>Reference</b>
-* F. Martin Nikirk
-	* m.nikirk@aol.com
