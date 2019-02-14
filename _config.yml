@@ -11,6 +11,7 @@ locale:             en_US
 url:                https://skyleroneill.github.io
 
 # Jekyll
+future: true
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
