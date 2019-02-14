@@ -46,7 +46,7 @@ For Kids program, Hagerstown, MD, June to August 2017 & 2018
 * Assisted students in troubleshooting a variety of programming issues
 	
 <b>Honors</b>
-	* UMBC Academic Achievement Award Scholarship
-	* President's List
-	* Dean's List
+* UMBC Academic Achievement Award Scholarship
+* President's List
+* Dean's List
 	
