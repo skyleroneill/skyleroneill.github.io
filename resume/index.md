@@ -40,10 +40,10 @@ comments: false
 <b>Work Experience</b>
 Game Design and Programming Instructor, Hagerstown Community College’s College 
 For Kids program, Hagerstown, MD, June to August 2017 & 2018
-	* Created lessons on coding and building games using C# and the Unity game engine
-	* Taught children ages 10-16
-	* Used Microsoft Office and Google application in the creation and teaching of lessons
-	* Assisted students in troubleshooting a variety of programming issues
+* Created lessons on coding and building games using C# and the Unity game engine
+* Taught children ages 10-16
+* Used Microsoft Office and Google application in the creation and teaching of lessons
+* Assisted students in troubleshooting a variety of programming issues
 	
 <b>Honors</b>
 	* UMBC Academic Achievement Award Scholarship
