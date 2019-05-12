@@ -1,8 +1,9 @@
+#
 # Site navigation links
-
+#
 - title: Contact Info
   url: /contact/
-  
+
 - title: Resume
   url: /resume/
 

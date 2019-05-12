@@ -23,7 +23,7 @@ comments: false
 	* Programmed game mechanics, systems, and UI
 	* Designed and built levels
 * Mind Upload: Cardboard Edition, <i>Global Game Jam</i>
-	* A puzzle platformer with a body swapping mechanics, made in Unity for the Global Game Jam, 2018
+	* A puzzle platformer with a body swapping mechanics, made in Unity for the Global Game Jam, January 2018
 	* Developed the game independently
 * Skeletons in Hats, <i>Game Developers Club</i>
 	* A multiplayer battle game, made in Unity as a Game Developer’s Club project, September 2018 – present
@@ -38,15 +38,14 @@ comments: false
 	* C#, C++, C, Java, Ruby
 	
 <b>Work Experience</b>
-Game Design and Programming Instructor, Hagerstown Community College’s College 
-For Kids program, Hagerstown, MD, June to August 2017 & 2018
-	* Created lessons on coding and building games using C# and the Unity game engine
-	* Taught children ages 10-16
-	* Used Microsoft Office and Google application in the creation and teaching of lessons
-	* Assisted students in troubleshooting a variety of programming issues
+Game Design and Programming Instructor, Hagerstown Community College’s College For Kids program, Hagerstown, MD, June to August 2017 & 2018
+* Created lessons on coding and building games using C# and the Unity game engine
+* Taught children ages 10-16
+* Used Microsoft Office and Google application in the creation and teaching of lessons
+* Assisted students in troubleshooting a variety of programming issues
 	
 <b>Honors</b>
-	* UMBC Academic Achievement Award Scholarship
-	* President's List
-	* Dean's List
+* UMBC Academic Achievement Award Scholarship
+* President's List
+* Dean's List
 	
