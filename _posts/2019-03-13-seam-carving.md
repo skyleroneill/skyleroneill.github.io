@@ -18,7 +18,7 @@ This project was done as part of a computer graphics course (CMSC 435 with Adam 
 
 The project involved implementing a content aware image resizing algorithm. This means a program that can resize an image to smaller dimensions, but still retain the most important information in the image.
 
-As you'll see the examples below, results are best on images with large simple backgrounds. Results are most hilarious (or creepy) on images of objects where every detail is important, such as faces.
+As you'll in see the examples below, results are best on images with large simple backgrounds. Results are most hilarious (or creepy) on images of objects where every detail is important, such as faces.
 
 ## Examples
 <figure>
@@ -26,7 +26,7 @@ As you'll see the examples below, results are best on images with large simple b
 	<figcaption>Before. Image is 1600 X 1067.</figcaption>
 </figure>
 <figure>
-	<a href="/assets/img/beach.jpg"><img src="/assets/img/beach.jpg"></a>
+	<a href="/assets/img/beachout.jpg"><img src="/assets/img/beachout.jpg"></a>
 	<figcaption>After. Image is 1200 X 800. Good results, minimally noticeable.</figcaption>
 </figure>
 
