@@ -1,7 +1,7 @@
 # Site
 title:              Skyler O'Neill
 bio:                'Programming and Game Design'
-description:        "Skyler ONeill is a student at UMBC studying computer science"
+description:        "I'm a Jr Software engineer for Firaxis Games."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -42,7 +42,7 @@ email: one2@umbc.edu
 #facebook:           username
 github-url:         skyleroneill
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          skyleroneill@gmail.com
 #xing:              username
 #instagram:          username
 #lastfm:            username

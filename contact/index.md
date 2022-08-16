@@ -6,6 +6,6 @@ date: 2019-01-17
 comments: false
 ---
     
-<b>Email:</b> one2@umbc.edu
+<b>Email:</b> skyleroneill@gmail.com
 	
 Reach out to me via email if you would like my other contact info.
